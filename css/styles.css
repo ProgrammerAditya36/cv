@@ -1,0 +1,19 @@
+body {
+    background-color: #cadaeb;
+    font-family: "Tw Cen MT";
+    
+}
+hr{
+    
+    border-style: dotted none none none;
+    border-width: 5px;
+    border-color: black;
+    height: 2px;
+    width:5%;
+}
+h1{ color:#0b5cc5;
+    text-decoration: underline;}
+h3{
+    color:#10b9b9;
+    text-decoration: underline;
+}
